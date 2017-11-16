@@ -1,0 +1,84 @@
+c:\users\kokila\documents\visual studio 2015\Projects\StaffService\StaffService\bin\Debug\StaffService.exe.config
+c:\users\kokila\documents\visual studio 2015\Projects\StaffService\StaffService\bin\Debug\StaffService.exe
+c:\users\kokila\documents\visual studio 2015\Projects\StaffService\StaffService\bin\Debug\StaffService.pdb
+c:\users\kokila\documents\visual studio 2015\Projects\StaffService\StaffService\bin\Debug\MetroFramework.Design.dll
+c:\users\kokila\documents\visual studio 2015\Projects\StaffService\StaffService\bin\Debug\MetroFramework.dll
+c:\users\kokila\documents\visual studio 2015\Projects\StaffService\StaffService\bin\Debug\MetroFramework.Fonts.dll
+c:\users\kokila\documents\visual studio 2015\Projects\StaffService\StaffService\obj\Debug\StaffService.csprojResolveAssemblyReference.cache
+c:\users\kokila\documents\visual studio 2015\Projects\StaffService\StaffService\obj\Debug\StaffService.Properties.Resources.resources
+c:\users\kokila\documents\visual studio 2015\Projects\StaffService\StaffService\obj\Debug\StaffService.csproj.GenerateResource.Cache
+c:\users\kokila\documents\visual studio 2015\Projects\StaffService\StaffService\obj\Debug\StaffService.exe
+c:\users\kokila\documents\visual studio 2015\Projects\StaffService\StaffService\obj\Debug\StaffService.pdb
+c:\users\kokila\documents\visual studio 2015\Projects\StaffService\StaffService\bin\Debug\MySql.Data.dll
+c:\users\kokila\documents\visual studio 2015\Projects\StaffService\StaffService\bin\Debug\MySql.Data.xml
+c:\users\kokila\documents\visual studio 2015\Projects\StaffService\StaffService\obj\Debug\StaffService.AddCustomerForm.resources
+c:\users\kokila\documents\visual studio 2015\Projects\StaffService\StaffService\obj\Debug\StaffService.FormControllers.PaymentForm.resources
+c:\users\kokila\documents\visual studio 2015\Projects\StaffService\StaffService\obj\Debug\StaffService.FormControllers.StartUpForm.resources
+C:\Users\kokila\Documents\Visual Studio 2015\Projects\StaffService\StaffService\obj\Debug\StaffService.FormControllers.MasterDataForm.resources
+C:\Users\kokila\Documents\Visual Studio 2015\Projects\StaffService\StaffService\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\kokila\Documents\Visual Studio 2015\Projects\StaffService\StaffService\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\kokila\Documents\Visual Studio 2015\Projects\StaffService\StaffService\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kokila\Documents\Visual Studio 2015\Projects\StaffService\StaffService\bin\Debug\RestSharp.dll
+C:\Users\kokila\Documents\Visual Studio 2015\Projects\StaffService\StaffService\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\kokila\Documents\Visual Studio 2015\Projects\StaffService\StaffService\bin\Debug\Twilio.dll
+C:\Users\kokila\Documents\Visual Studio 2015\Projects\StaffService\StaffService\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\kokila\Documents\Visual Studio 2015\Projects\StaffService\StaffService\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kokila\Documents\Visual Studio 2015\Projects\StaffService\StaffService\bin\Debug\RestSharp.xml
+C:\Users\kokila\Documents\Visual Studio 2015\Projects\StaffService\StaffService\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\kokila\Documents\Visual Studio 2015\Projects\StaffService\StaffService\bin\Debug\Twilio.xml
+C:\Users\Sakitha Nawodana\Documents\Visual Studio 2015\Projects\StaffService\StaffService\bin\Debug\StaffService.exe.config
+C:\Users\Sakitha Nawodana\Documents\Visual Studio 2015\Projects\StaffService\StaffService\obj\Debug\StaffService.exe
+C:\Users\Sakitha Nawodana\Documents\Visual Studio 2015\Projects\StaffService\StaffService\obj\Debug\StaffService.pdb
+C:\Users\Sakitha Nawodana\Documents\Visual Studio 2015\Projects\StaffService\StaffService\bin\Debug\StaffService.exe
+C:\Users\Sakitha Nawodana\Documents\Visual Studio 2015\Projects\StaffService\StaffService\bin\Debug\StaffService.pdb
+C:\Users\Sakitha Nawodana\Documents\Visual Studio 2015\Projects\StaffService\StaffService\bin\Debug\MetroFramework.Design.dll
+C:\Users\Sakitha Nawodana\Documents\Visual Studio 2015\Projects\StaffService\StaffService\bin\Debug\MetroFramework.dll
+C:\Users\Sakitha Nawodana\Documents\Visual Studio 2015\Projects\StaffService\StaffService\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Sakitha Nawodana\Documents\Visual Studio 2015\Projects\StaffService\StaffService\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Sakitha Nawodana\Documents\Visual Studio 2015\Projects\StaffService\StaffService\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Sakitha Nawodana\Documents\Visual Studio 2015\Projects\StaffService\StaffService\bin\Debug\MySql.Data.dll
+C:\Users\Sakitha Nawodana\Documents\Visual Studio 2015\Projects\StaffService\StaffService\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sakitha Nawodana\Documents\Visual Studio 2015\Projects\StaffService\StaffService\bin\Debug\RestSharp.dll
+C:\Users\Sakitha Nawodana\Documents\Visual Studio 2015\Projects\StaffService\StaffService\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Sakitha Nawodana\Documents\Visual Studio 2015\Projects\StaffService\StaffService\bin\Debug\Twilio.dll
+C:\Users\Sakitha Nawodana\Documents\Visual Studio 2015\Projects\StaffService\StaffService\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Sakitha Nawodana\Documents\Visual Studio 2015\Projects\StaffService\StaffService\bin\Debug\MySql.Data.xml
+C:\Users\Sakitha Nawodana\Documents\Visual Studio 2015\Projects\StaffService\StaffService\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sakitha Nawodana\Documents\Visual Studio 2015\Projects\StaffService\StaffService\bin\Debug\RestSharp.xml
+C:\Users\Sakitha Nawodana\Documents\Visual Studio 2015\Projects\StaffService\StaffService\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Sakitha Nawodana\Documents\Visual Studio 2015\Projects\StaffService\StaffService\bin\Debug\Twilio.xml
+C:\Users\Sakitha Nawodana\Documents\Visual Studio 2015\Projects\StaffService\StaffService\obj\Debug\StaffService.csprojResolveAssemblyReference.cache
+C:\Users\Sakitha Nawodana\Documents\Visual Studio 2015\Projects\StaffService\StaffService\obj\Debug\StaffService.AddCustomerForm.resources
+C:\Users\Sakitha Nawodana\Documents\Visual Studio 2015\Projects\StaffService\StaffService\obj\Debug\StaffService.FormControllers.MasterDataForm.resources
+C:\Users\Sakitha Nawodana\Documents\Visual Studio 2015\Projects\StaffService\StaffService\obj\Debug\StaffService.FormControllers.PaymentForm.resources
+C:\Users\Sakitha Nawodana\Documents\Visual Studio 2015\Projects\StaffService\StaffService\obj\Debug\StaffService.FormControllers.StartUpForm.resources
+C:\Users\Sakitha Nawodana\Documents\Visual Studio 2015\Projects\StaffService\StaffService\obj\Debug\StaffService.Properties.Resources.resources
+C:\Users\Sakitha Nawodana\Documents\Visual Studio 2015\Projects\StaffService\StaffService\obj\Debug\StaffService.csproj.GenerateResource.Cache
+D:\StaffService\StaffService\bin\Debug\StaffService.exe.config
+D:\StaffService\StaffService\obj\Debug\StaffService.exe
+D:\StaffService\StaffService\obj\Debug\StaffService.pdb
+D:\StaffService\StaffService\bin\Debug\StaffService.exe
+D:\StaffService\StaffService\bin\Debug\StaffService.pdb
+D:\StaffService\StaffService\bin\Debug\MetroFramework.Design.dll
+D:\StaffService\StaffService\bin\Debug\MetroFramework.dll
+D:\StaffService\StaffService\bin\Debug\MetroFramework.Fonts.dll
+D:\StaffService\StaffService\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\StaffService\StaffService\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\StaffService\StaffService\bin\Debug\MySql.Data.dll
+D:\StaffService\StaffService\bin\Debug\Newtonsoft.Json.dll
+D:\StaffService\StaffService\bin\Debug\RestSharp.dll
+D:\StaffService\StaffService\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\StaffService\StaffService\bin\Debug\Twilio.dll
+D:\StaffService\StaffService\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\StaffService\StaffService\bin\Debug\MySql.Data.xml
+D:\StaffService\StaffService\bin\Debug\Newtonsoft.Json.xml
+D:\StaffService\StaffService\bin\Debug\RestSharp.xml
+D:\StaffService\StaffService\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\StaffService\StaffService\bin\Debug\Twilio.xml
+D:\StaffService\StaffService\obj\Debug\StaffService.csprojResolveAssemblyReference.cache
+D:\StaffService\StaffService\obj\Debug\StaffService.AddCustomerForm.resources
+D:\StaffService\StaffService\obj\Debug\StaffService.FormControllers.MasterDataForm.resources
+D:\StaffService\StaffService\obj\Debug\StaffService.FormControllers.PaymentForm.resources
+D:\StaffService\StaffService\obj\Debug\StaffService.FormControllers.StartUpForm.resources
+D:\StaffService\StaffService\obj\Debug\StaffService.Properties.Resources.resources
+D:\StaffService\StaffService\obj\Debug\StaffService.csproj.GenerateResource.Cache
